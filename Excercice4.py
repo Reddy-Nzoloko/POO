@@ -19,3 +19,4 @@ print(f"vooici les fruits et leurs couleurs{Fruits}")
 # Suppression d'une clé dans le dictionnaire
 del Fruits["banane"]
 print(f"ce fruit est bien supprimer voici un aperçu des restants {Fruits}")
+print(type(Fruits))
